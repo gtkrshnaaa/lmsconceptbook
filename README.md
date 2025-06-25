@@ -170,7 +170,7 @@ midtrans_logs
 
 Salary Rp. 100k/jam (6 tahun pengalaman), berdasarkan standar salary Fullstack Web Developer yang berpengalaman lebih dari **5 tahun**.
 
-| No | Komponen                               | Estimasi Jam | Biaya (100k/jam)|
+| Number | Komponen                               | Estimasi Jam | Biaya (100k/jam)|
 | -- | -------------------------------------- | ------------ | --------------- |
 | 1  | Setup Laravel Project dan Autentikasi  | 4            | Rp400.000       |
 | 2  | Role dan Hak Akses                     | 5            | Rp500.000       |
