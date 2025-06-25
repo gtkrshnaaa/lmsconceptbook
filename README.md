@@ -2,12 +2,13 @@
 Writen in Indonesian
 
 ---
+# Aplikasi LMS (Learning Management System) dengan Laravel
 
 ## 1. Arsitektur Umum
 
-* **Stack utama**: Laravel 11 LTS, PHP 8.3, MariaDB 10.6, Composer, Git.
-* **Frontend**: Blade + Bootstrap Admin (template bawaan atau AdminLTE agar cepat).
-* **Deployment**: Nginx di VPS Ubuntu 22.04, queue pakai database driver, scheduler via `cron`.
+* **Stack utama**: Laravel 12, PHP 8.3, SQLite, Composer, Git.
+* **Frontend**: Blade + Tailwind CSS.
+* **Deployment**: Apache di VPS Ubuntu 24.04, queue dengan database driver, scheduler via `cron`.
 
 ## 2. Modul Fungsional
 
