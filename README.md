@@ -175,8 +175,8 @@ Salary Rp. 100k/jam (6 tahun pengalaman), berdasarkan standar salary Fullstack W
 | 1  | Setup Laravel Project dan Autentikasi  | 4            | Rp400.000       |
 | 2  | Role dan Hak Akses                     | 5            | Rp500.000       |
 | 3  | Manajemen Kelas                        | 7            | Rp700.000       |
-| 4  | Modul Materi dan Embed YouTube         | 7            | Rp700.000       |
-| 5  | Sistem Pembelian Kelas                 | 6            | Rp600.000       |
+| 4  | Modul Materi dan Embed YouTube         | 6            | Rp600.000       |
+| 5  | Sistem Pembelian Kelas                 | 7            | Rp700.000       |
 | 6  | Integrasi Midtrans Snap API            | 9            | Rp900.000       |
 | 7  | Monitoring dan Manajemen Pembayaran    | 14           | Rp1.400.000     |
 | 8  | Progress Belajar Siswa                 | 8            | Rp800.000       |
